@@ -1,2 +1,2 @@
-# YongmeiGong.github.io
+# YMGong.github.io
 A personal page about myself
